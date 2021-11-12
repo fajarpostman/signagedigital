@@ -1,0 +1,93 @@
+/* 
+COLOR:
+BIRU MUDA #00A7E4
+BIRU #0550B2
+BIRU TUA #01519B
+BIRU TUA SEKALI #003C74
+ORANGE #FF3300
+*/
+
+html { 
+    /* overflow: hidden;  */
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+
+.bg-orange{
+	background-color : #FF3300 !important;
+}
+
+.bg-blue{
+	background-color : #0550B2 !important;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.display-frame {
+    border-collapse: collapse;
+    background-color: #0D2F8B;
+}
+
+.table-border {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+
+.text-center {
+    text-align:center;
+}
+
+.flag-icon {
+    position: relative;
+    /* Adjust these values accordingly */
+    top: 0px;
+    /* left: 5px; */
+}
+
+.kurs-responsive {
+    width:33%;
+    /* padding:10px; */
+}
+
+.img-carousel {
+    display:none;
+    width:100%;
+}
+
+.tabel-kurs-strip {
+    width: 100%;
+    border: 1px solid white;
+}
+
+.tabel-kurs-strip td {
+    width: 33%;
+    border: 1px solid white;
+}
+
+.isi-kurs {
+    background: #0D2F8B !important;
+    border: 1px solid white;
+}
+
+/* .tabel-kurs-strip td:nth-of-type(odd){
+    background:#00695c !important;            
+}
+
+.tabel-kurs-strip td:nth-of-type(even){
+    background:#009688 !important;
+} */
+
+.tabel-deposito {
+    width: 100%;
+    text-align: center;
+    border: 1px solid white;
+}
+
+.isi-deposito {
+    background: #0D2F8B !important;
+    border: 1px solid white;
+}
